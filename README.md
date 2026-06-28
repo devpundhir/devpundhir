@@ -23,7 +23,7 @@ Deep learning pipeline that converts electromyography signals into spoken words 
 End-to-end biosignal preprocessing: noise filtering, wavelet denoising, feature extraction, and visualization.  
 `Python` `NumPy` `Wavelet`
 
-**[MATLAB DSP Implementations](#)**  
+**[MATLAB DSP Implementations]**  
 FIR/IIR filtering, FFT, STFT, and spectral analysis algorithms implemented in MATLAB.  
 `MATLAB` `DSP`
 
